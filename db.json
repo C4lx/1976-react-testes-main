@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 962
+    "saldo": 100
   },
   "transacoes": [
     {
@@ -17,27 +17,39 @@
     },
     {
       "transacao": "saque",
-      "valor": "3",
-      "data": "28/07/2022",
+      "valor": "10",
+      "data": "02/08/2022",
       "id": 3
     },
     {
       "transacao": "saque",
-      "valor": "35,00",
-      "data": "28/07/2022",
+      "valor": "10",
+      "data": "02/08/2022",
       "id": 4
     },
     {
       "transacao": "saque",
-      "valor": "35,00",
-      "data": "28/07/2022",
+      "valor": "200",
+      "data": "02/08/2022",
       "id": 5
     },
     {
-      "transacao": "deposito",
-      "valor": "35,00",
-      "data": "28/07/2022",
+      "transacao": "saque",
+      "valor": "700",
+      "data": "02/08/2022",
       "id": 6
+    },
+    {
+      "transacao": "saque",
+      "valor": "700",
+      "data": "02/08/2022",
+      "id": 7
+    },
+    {
+      "transacao": "deposito",
+      "valor": "700",
+      "data": "02/08/2022",
+      "id": 8
     }
   ]
 }
